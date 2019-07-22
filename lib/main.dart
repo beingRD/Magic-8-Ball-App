@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-//import 'ball.dart';
+import 'dart:math';
 
 void main() {
   runApp(
@@ -10,8 +10,7 @@ void main() {
   );
 }
 
-
-lass Ball extends StatefulWidget {
+class Ball extends StatefulWidget {
   Ball({Key key}) : super(key: key);
 
   _BallState createState() => _BallState();
