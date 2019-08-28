@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Snapshot
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+![](magicball.gif)
 
 ## Getting Started
 
