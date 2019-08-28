@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Snapshot
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
